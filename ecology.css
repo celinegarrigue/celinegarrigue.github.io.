@@ -1,0 +1,70 @@
+body {
+	text-align: center;
+}
+
+
+div{
+	margin: 5px;
+	padding: 5px;
+}
+
+
+
+/*navbar*/
+.logo {
+	width: 150px;
+	height: 150px;
+	padding-left: 50px;
+}
+
+.navbar {
+    display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #343432;
+}
+
+.navbar-link {
+    display: flex;
+	justify-content: space-between;
+	margin-right: 200px;
+	width: 55%;
+}
+
+nav a {
+	color: #80ffdb;
+	text-decoration: none;
+	padding: 0px;
+	font-size: 20px;
+}
+
+
+nav a:hover {
+	color: pink;
+}
+
+
+/*Le texte*/
+
+.background-color
+{
+	font-size: 20px;
+	color: teal;
+	background-color: seashell;
+}
+
+/*Les photos*/
+
+
+.footer {
+	background-color: #343432;
+	color: whitesmoke;
+	padding: 25px 25px;
+	margin-top: 50px;
+}
+
+
+
+
+
+
