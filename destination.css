@@ -1,0 +1,91 @@
+body {
+    text-align: center;
+}
+
+div{
+	margin: 5px;
+	padding: 5px
+}
+
+/*navbar*/
+.logo {
+	width: 150px;
+	height: 150px;
+	padding-left: 50px;
+}
+
+.navbar-center {
+    display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #343432;
+}
+
+.navbar-link {
+    display: flex;
+	justify-content: space-between;
+	margin-right: 200px;
+	width: 55%;
+}
+
+navbar a {
+	color: #80ffdb;
+	text-decoration: none;
+	padding: 0px;
+	font-size: 20px;
+}
+
+
+navbar a:hover {
+	color: pink;
+}
+
+/*image*/
+.map {
+    display: center;
+}
+
+/*text*/
+
+.text {
+    color:teal;
+    font-size: 20px;
+	background-color: seashell;
+}
+
+.margin1
+{
+	margin-top: 40px;
+}
+
+.margin2
+{
+	margin-top: 20px
+}
+
+.service-destination
+{
+	display:  flex;
+	justify-content: space-between;
+	box-sizing: content-box;
+ }
+
+ .picture-destination
+ {
+	width: 100%;
+ }
+
+ .title
+ {
+	color: teal;
+ }
+
+  /*Footer*/
+ 
+  .footer {
+	background-color: #343432;
+	color: white;
+	padding: 25px 25px;
+	margin-top: 60px;
+}
+
